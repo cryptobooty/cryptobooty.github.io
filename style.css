@@ -6,6 +6,6 @@ h1,h2,h3,h4,h5,h6{
   color: #0d6efd;
 }
 
-section.row:nth-child(2) {
+.row:nth-child(2) {
   background: rgba(0, 4, 255, 0.1);
 }
